@@ -8,7 +8,7 @@ import CardGroup from 'react-bootstrap/CardGroup';
 import axios from 'axios';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
-import image from './Assets/images/header.jpg';
+import image from './Assets/images/header1.jpg';
 
 
 
